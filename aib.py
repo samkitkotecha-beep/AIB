@@ -1,3 +1,3 @@
 import py
 
-printf("Hello World")
+print("Hello World")
